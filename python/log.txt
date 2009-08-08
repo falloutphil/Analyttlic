@@ -1,0 +1,678 @@
+/usr/lib/python2.5/site-packages/wx-2.8-gtk2-unicode/wx/lib/plot.py:1721: RuntimeWarning: Python C API version mismatch for module zlib: This Python has API version 1013, module zlib has version 1012.
+  import cStringIO, zlib
+Accessing UK DMO to get current Gilt prices...
+Creating Analyttlic bonds from UK DMO quotes...
+Bond: Treasury Coupon Strip 07Jun2009
+Bond: 7¼% Treasury Principal Strip 07Dec2007
+Bond: Treasury Coupon Strip 07Dec2007
+Bond: Treasury Coupon Strip 07Jun2008
+Bond: Treasury Coupon Strip 07Dec2008
+Bond: Treasury Coupon Strip 07Dec2009
+Bond: Treasury Coupon Strip 07Jun2010
+Bond: Treasury Coupon Strip 07Dec2010
+Bond: Treasury Coupon Strip 07Jun2011
+Bond: Treasury Coupon Strip 07Dec2011
+Bond: Treasury Coupon Strip 07Jun2012
+Bond: Treasury Coupon Strip 07Dec2012
+Bond: Treasury Coupon Strip 07Jun2013
+Bond: Treasury Coupon Strip 07Dec2013
+Bond: Treasury Coupon Strip 07Jun2014
+Bond: Treasury Coupon Strip 07Dec2014
+Bond: Treasury Coupon Strip 07Jun2015
+Bond: 8% Treasury Principal Strip 07Dec2015
+Bond: Treasury Coupon Strip 07Dec2015
+Bond: Treasury Coupon Strip 07Jun2016
+Bond: Treasury Coupon Strip 07Dec2016
+Bond: Treasury Coupon Strip 07Jun2017
+Bond: Treasury Coupon Strip 07Dec2017
+Bond: Treasury Coupon Strip 07Jun2018
+Bond: Treasury Coupon Strip 07Dec2018
+Bond: Treasury Coupon Strip 07Jun2019
+Bond: Treasury Coupon Strip 07Dec2019
+Bond: Treasury Coupon Strip 07Jun2020
+Bond: Treasury Coupon Strip 07Dec2020
+Bond: 8% Treasury Principal Strip 07Jun2021
+Bond: Treasury Coupon Strip 07Jun2021
+Bond: 9% Conversion Loan 2011
+Bond: 6% Treasury Stock 2028
+Bond: Treasury Coupon Strip 07Dec2021
+Bond: Treasury Coupon Strip 07Jun2022
+Bond: Treasury Coupon Strip 07Dec2022
+Bond: Treasury Coupon Strip 07Jun2023
+Bond: Treasury Coupon Strip 07Dec2023
+Bond: Treasury Coupon Strip 07Jun2024
+Bond: Treasury Coupon Strip 07Dec2024
+Bond: Treasury Coupon Strip 07Jun2025
+Bond: Treasury Coupon Strip 07Dec2025
+Bond: Treasury Coupon Strip 07Jun2026
+Bond: Treasury Coupon Strip 07Dec2026
+Bond: Treasury Coupon Strip 07Jun2027
+Bond: Treasury Coupon Strip 07Dec2027
+Bond: Treasury Coupon Strip 07Jun2028
+Bond: Treasury Coupon Strip 07Dec2028
+Bond: 6% Treasury Principal Strip 07Dec2028
+Bond: 5¾% Treasury Stock 2009
+Bond: 5¾% Treasury Principal Strip 07Dec2009
+Bond: 12% Exchequer Stock 2013-2017
+Bond: 4¼% Treasury Stock 2032
+Bond: 8% Treasury Stock 2015
+Bond: 6¼% Treasury Stock 2010
+Bond: 8% Treasury Stock 2013
+Bond: 8¾% Treasury Stock 2017
+Bond: 9% Treasury Stock 2012
+Bond: 7¾% Treasury Loan 2012-2015
+Bond: 5½% Treasury Stock 2008-2012
+Bond: 8% Treasury Stock 2009
+Bond: 9% Treasury Loan 2008
+Bond: 4¼%  Treasury Principal Strip 07Jun2032
+Bond: Treasury Coupon Strip 07Jun2029
+Bond: Treasury Coupon Strip 07Dec2029
+Bond: Treasury Coupon Strip 07Jun2030
+Bond: Treasury Coupon Strip 07Dec2030
+Bond: Treasury Coupon Strip 07Jun2031
+Bond: Treasury Coupon Strip 07Dec2031
+Bond: Treasury Coupon Strip 07Jun2032
+Bond: 7¼% Treasury Stock 2007
+Bond: 8% Treasury Stock 2021
+Bond: 5% Treasury Stock 2012
+Bond: 5% Treasury Principal Strip 07Mar2012
+Bond: Treasury Coupon Strip 07Mar2008
+Bond: Treasury Coupon Strip 07Sep2008
+Bond: Treasury Coupon Strip 07Mar2009
+Bond: Treasury Coupon Strip 07Sep2009
+Bond: Treasury Coupon Strip 07Mar2010
+Bond: Treasury Coupon Strip 07Sep2010
+Bond: Treasury Coupon Strip 07Mar2011
+Bond: Treasury Coupon Strip 07Sep2011
+Bond: Treasury Coupon Strip 07Mar2012
+Bond: 5% Treasury Stock 2025
+Bond: 5% Treasury Principal Strip 07Mar2025
+Bond: Treasury Coupon Strip 07Sep2012
+Bond: Treasury Coupon Strip 07Mar2013
+Bond: Treasury Coupon Strip 07Sep2013
+Bond: Treasury Coupon Strip 07Mar2014
+Bond: Treasury Coupon Strip 07Sep2014
+Bond: Treasury Coupon Strip 07Mar2015
+Bond: Treasury Coupon Strip 07Sep2015
+Bond: Treasury Coupon Strip 07Mar2016
+Bond: Treasury Coupon Strip 07Sep2016
+Bond: Treasury Coupon Strip 07Mar2017
+Bond: Treasury Coupon Strip 07Sep2017
+Bond: Treasury Coupon Strip 07Mar2018
+Bond: Treasury Coupon Strip 07Sep2018
+Bond: Treasury Coupon Strip 07Mar2019
+Bond: Treasury Coupon Strip 07Sep2019
+Bond: Treasury Coupon Strip 07Mar2020
+Bond: Treasury Coupon Strip 07Sep2020
+Bond: Treasury Coupon Strip 07Mar2021
+Bond: Treasury Coupon Strip 07Sep2021
+Bond: Treasury Coupon Strip 07Mar2022
+Bond: Treasury Coupon Strip 07Sep2022
+Bond: Treasury Coupon Strip 07Mar2023
+Bond: Treasury Coupon Strip 07Sep2023
+Bond: Treasury Coupon Strip 07Mar2024
+Bond: Treasury Coupon Strip 07Sep2024
+Bond: Treasury Coupon Strip 07Mar2025
+Bond: Treasury Coupon Strip 07Sep2025
+Bond: 5% Treasury Stock 2008
+Bond: 5% Treasury Principal Strip 07Mar2008
+Bond: 5% Treasury Stock 2014
+Bond: 5% Treasury Principal Strip 07Sep2014
+Bond: 4¼% Treasury Stock 2036
+Bond: 4¼% Treasury Principal Strip 07Mar2036
+Bond: Treasury Coupon Strip 07Mar2026
+Bond: Treasury Coupon Strip 07Sep2026
+Bond: Treasury Coupon Strip 07Mar2027
+Bond: Treasury Coupon Strip 07Sep2027
+Bond: Treasury Coupon Strip 07Mar2028
+Bond: Treasury Coupon Strip 07Sep2028
+Bond: Treasury Coupon Strip 07Mar2029
+Bond: Treasury Coupon Strip 07Sep2029
+Bond: Treasury Coupon Strip 07Mar2030
+Bond: Treasury Coupon Strip 07Sep2030
+Bond: Treasury Coupon Strip 07Mar2031
+Bond: Treasury Coupon Strip 07Sep2031
+Bond: Treasury Coupon Strip 07Mar2032
+Bond: Treasury Coupon Strip 07Sep2032
+Bond: Treasury Coupon Strip 07Mar2033
+Bond: Treasury Coupon Strip 07Sep2033
+Bond: Treasury Coupon Strip 07Mar2034
+Bond: Treasury Coupon Strip 07Sep2034
+Bond: Treasury Coupon Strip 07Mar2035
+Bond: Treasury Coupon Strip 07Sep2035
+Bond: Treasury Coupon Strip 07Mar2036
+Bond: 4% Treasury Stock 2009
+Bond: 4% Treasury Principal Strip 07Mar2009
+Bond: 4¾% Treasury Stock 2015
+Bond: 4¾% Treasury Principal Strip 07Sep2015
+Bond: 4¾% Treasury Stock 2038
+Bond: 4¾% Treasury Principal Strip 07Dec2038
+Bond: Treasury Coupon Strip 07Dec2032
+Bond: Treasury Coupon Strip 07Jun2033
+Bond: Treasury Coupon Strip 07Dec2033
+Bond: Treasury Coupon Strip 07Jun2034
+Bond: Treasury Coupon Strip 07Dec2034
+Bond: Treasury Coupon Strip 07Jun2035
+Bond: Treasury Coupon Strip 07Dec2036
+Bond: Treasury Coupon Strip 07Dec2035
+Bond: Treasury Coupon Strip 07Jun2036
+Bond: Treasury Coupon Strip 07Jun2037
+Bond: Treasury Coupon Strip 07Dec2037
+Bond: Treasury Coupon Strip 07Jun2038
+Bond: Treasury Coupon Strip 07Dec2038
+Bond: 4¾% Treasury Stock 2010
+Bond: 4¾% Treasury Stock 2020
+Bond: 4¾% Treasury Principal Strip 07Jun2010
+Bond: 4¼% Treasury Gilt 2055
+Bond: 4¾% Treasury Principal Strip 07Mar2020
+Bond: Treasury Coupon Strip 07Jun2039
+Bond: Treasury Coupon Strip 07Dec2039
+Bond: Treasury Coupon Strip 07Jun2040
+Bond: Treasury Coupon Strip 07Dec2040
+Bond: Treasury Coupon Strip 07Jun2041
+Bond: Treasury Coupon Strip 07Dec2041
+Bond: Treasury Coupon Strip 07Jun2042
+Bond: Treasury Coupon Strip 07Dec2042
+Bond: Treasury Coupon Strip 07Jun2043
+Bond: Treasury Coupon Strip 07Dec2043
+Bond: Treasury Coupon Strip 07Jun2044
+Bond: Treasury Coupon Strip 07Dec2044
+Bond: Treasury Coupon Strip 07Jun2045
+Bond: Treasury Coupon Strip 07Dec2045
+Bond: Treasury Coupon Strip 07Jun2046
+Bond: Treasury Coupon Strip 07Dec2046
+Bond: Treasury Coupon Strip 07Jun2047
+Bond: Treasury Coupon Strip 07Dec2047
+Bond: Treasury Coupon Strip 07Jun2048
+Bond: Treasury Coupon Strip 07Dec2048
+Bond: Treasury Coupon Strip 07Jun2049
+Bond: Treasury Coupon Strip 07Dec2049
+Bond: Treasury Coupon Strip 07Jun2050
+Bond: Treasury Coupon Strip 07Dec2050
+Bond: Treasury Coupon Strip 07Jun2051
+Bond: Treasury Coupon Strip 07Dec2051
+Bond: Treasury Coupon Strip 07Jun2052
+Bond: Treasury Coupon Strip 07Dec2052
+Bond: Treasury Coupon Strip 07Jun2053
+Bond: Treasury Coupon Strip 07Dec2053
+Bond: Treasury Coupon Strip 07Jun2054
+Bond: Treasury Coupon Strip 07Dec2054
+Bond: Treasury Coupon Strip 07Jun2055
+Bond: Treasury Coupon Strip 07Dec2055
+Bond: 4¼% Treasury Principal Strip 07Dec2055
+Bond: 4¼% Treasury Gilt 2011
+Bond: 4% Treasury Gilt 2016
+Bond: 4¼% Treasury Principal Strip 07Mar2011
+Bond: 4¼% Treasury Gilt 2046
+Bond: 4% Treasury Principal Strip 07Sep2016
+Bond: 4¼% Treasury Principal Strip 07Dec2046
+Bond: 4¼% Treasury Gilt 2027
+Bond: 4¼% Treasury Principal Strip 07Dec2027
+Bond: 5¼% Treasury Gilt 2012
+Bond: 5% Treasury Gilt 2018
+Bond: 4½% Treasury Gilt 2042
+Bond: 5¼% Treasury Principal Strip 07Jun2012
+Bond: 5% Treasury Principal Strip 07Mar2018
+Bond: 4½% Treasury Principal Strip 07Dec2042
+Bond: 4¾% Treasury Gilt 2030
+Displaying Maturity and corresponding calculated Yield To Maturity...
+0.0753080658186
+17.8898881318
+0.174586473481
+0.102404681226
+0.0898016752944
+0.0740287998217
+0.0682219504483
+0.0691259938749
+0.0663201826772
+0.0666164710387
+0.0673569147641
+0.0681685594324
+0.0665357338722
+0.0673803947786
+0.065920607856
+0.0663020156455
+0.064627699416
+10.3948279719
+0.0657742679697
+0.0653261175644
+0.065466776742
+0.0642686568377
+0.0644650668698
+0.0632279960823
+0.0632599239261
+0.0621100142045
+0.0621274757202
+0.0623729187392
+0.0627107957895
+12.5974497317
+0.062198003402
+0.435890017915
+0.0656017268095
+0.0620819901418
+0.060948813221
+0.0605428508331
+0.0595466756591
+0.0591903073988
+0.0589136312695
+0.0586954519213
+0.0577516541672
+0.0576314152167
+0.0568146077898
+0.0567162587166
+0.0559432828201
+0.0558677242172
+0.0558243452231
+0.0557170201153
+12.3218978707
+0.759864757313
+6.7718692036
+0.473989588614
+0.0368785715661
+0.259878127199
+0.638105679341
+0.647590541339
+0.0185639992972
+0.196673304417
+0.246529597135
+0.176699636753
+0.053291569504
+3.84626840742
+9.43183433733
+0.0548826347637
+0.0546754593872
+0.053851007245
+0.053572997281
+0.0528805823041
+0.0526380107313
+0.0524129853195
+10.9299967738
+0.143856707866
+0.00380078299756
+5.49405236574
+0.0873560378914
+0.0962831263714
+0.0674998395256
+0.0753631940572
+0.0630459319273
+0.0691574960718
+0.0623984952852
+0.0669632989345
+0.0640574723366
+0.0363586642354
+8.27332596085
+0.0680322309753
+0.0637070357631
+0.0672106614843
+0.0636205135255
+0.0663927304537
+0.0628545421701
+0.064947851218
+0.0642570544972
+0.0655388393474
+0.0628436747353
+0.0644456115002
+0.0619238988762
+0.0633918252882
+0.0610404142668
+0.0621848297832
+0.061207986049
+0.0626200967244
+0.0609773403138
+0.0622670728493
+0.0602034456285
+0.0608181617216
+0.058721509523
+0.0594801243857
+0.0583662800751
+0.0588909093994
+0.0571228853075
+0.0577696702337
+0.531345543713
+5.44749999062
+0.020235128011
+5.88907853908
+0.0383438991538
+10.5587981795
+0.0562430497873
+0.0568347614368
+0.0554039868431
+0.0558816424473
+0.0552852813912
+0.055849808923
+0.0544685005069
+0.0548507257125
+0.053464413285
+0.053822984507
+0.0524706520966
+0.0528402030449
+0.0521051867225
+0.0524777368448
+0.0512494770779
+0.0516008752756
+0.0504158784913
+0.0507683500124
+0.0497888233202
+0.0501721554491
+0.0495865835326
+0.0906519836475
+4.15224398755
+0.0253933848429
+5.75379286399
+0.0323358331038
+14.5626019283
+0.0522987275921
+0.0516222603826
+0.0514878179856
+0.0507737414126
+0.0506638817855
+0.0501468026648
+0.0499989556991
+0.050027058745
+0.0500079885438
+0.0495888399284
+0.0495730763184
+0.0492152779062
+0.0492241427736
+0.507029510283
+0.0339804112657
+5.54139054882
+0.0175811146801
+6.61327471074
+0.0489118106253
+0.0488242106065
+0.0488250410483
+0.0487903536694
+0.048271371633
+0.0482914708794
+0.0479326503944
+0.0479382558922
+0.0476179420926
+0.0475948349913
+0.0476215589887
+0.0476187166787
+0.0473096050595
+0.0473025281574
+0.0469527853837
+0.0470604567247
+0.0463997698752
+0.0463027930949
+0.0461993861101
+0.046041120229
+0.045564688246
+0.0454789025408
+0.0451271614353
+0.0450247924006
+0.0447459420422
+0.0446060888777
+0.0445829672179
+0.0444619847922
+0.0441510314219
+0.0439954303963
+0.0437049350046
+0.0436422487595
+0.0433333741225
+0.043264125146
+27.3683435492
+0.0104122444451
+0.0339566111738
+4.56307740241
+0.021762752362
+4.97358796134
+18.6647135912
+0.0466275614845
+7.95461695379
+0.312144387237
+0.0295067071292
+0.0263262614469
+6.20877782213
+6.54117154293
+16.543812612
+0.0448081110657
+
+Create Forward Rates Curve from bonds...
+
+x=0.197125 y=0.237013
+x=0.197125 y=-inf
+x=0.197125 y=inf
+x=0.44627 y=0.0618891
+x=0.44627 y=-inf
+x=0.44627 y=-inf
+x=0.698152 y=0.0511049
+x=0.950034 y=0.0501108
+x=0.958248 y=0.313096
+x=1.0486 y=0.489129
+x=1.19918 y=-0.228566
+x=1.44559 y=0.0554085
+x=1.44559 y=inf
+x=1.44559 y=-inf
+x=1.69747 y=0.0485471
+x=1.94935 y=0.0485604
+x=1.99863 y=0.0697942
+x=2.19849 y=0.0434459
+x=2.19849 y=inf
+x=2.19849 y=inf
+x=2.4449 y=-0.560003
+x=2.69678 y=0.0481921
+x=2.69678 y=inf
+x=2.69678 y=inf
+x=2.94867 y=-0.548624
+x=3.16496 y=0.153279
+x=3.19781 y=-0.625925
+x=3.44422 y=0.0536109
+x=3.44422 y=inf
+x=3.44422 y=inf
+x=3.6961 y=-0.586155
+x=3.79192 y=0.267988
+x=3.94798 y=-0.0858824
+x=4.19713 y=0.0476103
+x=4.33402 y=0.208293
+x=4.44627 y=2.05344
+x=4.44627 y=-inf
+x=4.44627 y=inf
+x=4.69815 ykde-config: /apps/mono/1.2/lib/libpng12.so.0: no version information available (required by /usr/lib/libqt-mt.so.3)
+kde-config: /apps/mono/1.2/lib/libpng12.so.0: no version information available (required by /usr/lib/libqt-mt.so.3)
+X Error: BadDevice, invalid or uninitialized input device 167
+  Major opcode:  144
+  Minor opcode:  3
+  Resource id:  0x0
+Failed to open device
+X Error: BadDevice, invalid or uninitialized input device 167
+  Major opcode:  144
+  Minor opcode:  3
+  Resource id:  0x0
+Failed to open device
+=0.114734
+x=4.69815 y=inf
+x=4.69815 y=-inf
+x=4.86242 y=0.160218
+x=4.95003 y=-0.155594
+x=5.19918 y=0.051338
+x=5.44559 y=0.0514169
+x=5.69747 y=0.0517435
+x=5.94935 y=0.0510615
+x=6.00411 y=0.865212
+x=6.19849 y=-0.177635
+x=6.21218 y=2.74805
+x=6.4449 y=-0.107252
+x=6.69678 y=0.0505326
+x=6.94867 y=1.69334
+x=6.94867 y=-inf
+x=6.94867 y=inf
+x=7.19781 y=0.0330613
+x=7.44422 y=0.0486241
+x=7.6961 y=0.0475895
+x=7.94798 y=0.0480797
+x=7.94798 y=inf
+x=7.94798 y=inf
+x=8.19713 y=1.65063
+x=8.19713 y=-inf
+x=8.19713 y=-inf
+x=8.44627 y=0.0465349
+x=8.69815 y=0.0414442
+x=8.95003 y=0.0585139
+x=8.95003 y=-inf
+x=8.95003 y=inf
+x=9.19918 y=-1.75653
+x=9.44559 y=0.0494243
+x=9.69747 y=0.0479934
+x=9.91376 y=0.103711
+x=9.94935 y=-0.299397
+x=10.1985 y=0.0491784
+x=10.4449 y=0.0460463
+x=10.4449 y=inf
+x=10.4449 y=inf
+x=10.6968 y=-2.68291
+x=10.9487 y=0.0463985
+x=11.1978 y=0.0461272
+x=11.4442 y=0.0471583
+x=11.6961 y=0.0454182
+x=11.948 y=0.044544
+x=12.1971 y=0.0468629
+x=12.4463 y=3.37548
+x=12.4463 y=-inf
+x=12.4463 y=inf
+x=12.6982 y=0.0242905
+x=12.95 y=0.0482976
+x=13.1992 y=0.0500562
+x=13.4456 y=0.0501193
+x=13.6975 y=0.185717
+x=13.6975 y=-inf
+x=13.6975 y=inf
+x=13.9493 y=-6.8385
+x=14.1985 y=0.043826
+x=14.4449 y=0.0435102
+x=14.6968 y=0.0427826
+x=14.9487 y=0.0395445
+x=15.1978 y=0.0406751
+x=15.4442 y=0.0407538
+x=15.6961 y=0.0456001
+x=15.948 y=0.0403644
+x=16.1971 y=0.0392282
+x=16.4463 y=0.0417284
+x=16.6982 y=0.0394491
+x=16.95 y=0.041243
+x=17.1992 y=0.0411113
+x=17.4456 y=0.0403852
+x=17.4456 y=inf
+x=17.4456 y=-inf
+x=17.6975 y=-0.0200237
+x=17.9493 y=0.0419133
+x=18.1985 y=0.0420176
+x=18.4449 y=0.0426932
+x=18.6968 y=0.0413074
+x=18.9487 y=0.0416114
+x=19.1978 y=0.0419821
+x=19.4442 y=0.042188
+x=19.6961 y=0.0409706
+x=19.948 y=0.0385455
+x=20.1971 y=0.0449397
+x=20.1971 y=inf
+x=20.1971 y=inf
+x=20.4463 y=-6.44288
+x=20.6982 y=0.0419378
+x=20.95 y=0.0414335
+x=21.1992 y=10.5669
+x=21.1992 y=-inf
+x=21.1992 y=inf
+x=21.4456 y=-0.162736
+x=21.6975 y=0.0380472
+x=21.9493 y=0.0389763
+x=22.1985 y=0.0383584
+x=22.4449 y=0.0376138
+x=22.6968 y=0.0373708
+x=22.9487 y=0.0385957
+x=23.1978 y=0.257421
+x=23.1978 y=-inf
+x=23.4442 y=0.0390687
+x=23.6961 y=0.0386697
+x=23.948 y=0.0376314
+x=24.1971 y=0.0355946
+x=24.4463 y=0.0385918
+x=24.6982 y=9.3193
+x=24.6982 y=-inf
+x=24.6982 y=-inf
+x=24.95 y=0.0418738
+x=25.1992 y=0.0361055
+x=25.4456 y=0.0363617
+x=25.6975 y=0.0381556
+x=25.9493 y=0.0377855
+x=26.1985 y=0.0383892
+x=26.4449 y=0.0327316
+x=26.6968 y=0.0378495
+x=26.9487 y=0.038124
+x=27.1978 y=0.0381705
+x=27.4442 y=0.0398245
+x=27.6961 y=0.0382964
+x=27.948 y=0.0393511
+x=28.1971 y=0.0356336
+x=28.4463 y=0.23789
+x=28.4463 y=inf
+x=28.4463 y=-inf
+x=28.6982 y=0.0421597
+x=29.1992 y=0.0402184
+x=29.6975 y=0.0405716
+x=30.1985 y=0.0398331
+x=30.6968 y=0.0414384
+x=31.1978 y=0.207257
+x=31.1978 y=inf
+x=31.1978 y=-inf
+x=31.6961 y=0.0422122
+x=32.1971 y=0.0374103
+x=32.6982 y=0.0399316
+x=33.1992 y=0.0388807
+x=33.6975 y=0.0351161
+x=34.1985 y=0.0402904
+x=34.6968 y=0.0393914
+x=35.1978 y=0.0396722
+x=35.1978 y=inf
+x=35.1978 y=-inf
+x=35.6961 y=-0.164152
+x=36.1971 y=0.0385901
+x=36.6982 y=0.0402482
+x=37.1992 y=0.0392647
+x=37.6975 y=0.0397482
+x=38.1985 y=0.0389606
+x=38.6968 y=0.0378393
+x=39.1978 y=14.66
+x=39.1978 y=-inf
+x=39.1978 y=-inf
+x=39.6961 y=0.0259529
+x=40.1971 y=0.0351995
+x=40.6982 y=0.0348823
+x=41.1992 y=0.0327214
+x=41.6975 y=0.0311692
+x=42.1985 y=0.0350673
+x=42.6968 y=0.0353266
+x=43.1978 y=0.0340768
+x=43.6961 y=0.037748
+x=44.1971 y=0.0322438
+x=44.6982 y=0.0369826
+x=45.1992 y=0.0328215
+x=45.6975 y=0.0354868
+x=46.1985 y=0.0309574
+x=46.6968 y=0.0358058
+x=47.1978 y=0.0347342
+x=47.6961 y=0.0344901
+x=48.1971 y=0.0341788
+x=48.1971 y=inf
+x=48.1971 y=inf
+Bootstrapping Curve...
+
+Output calculated points...
+Traceback (most recent call last):
+  File "Analyttlic.py", line 83, in <module>
+    f = MyFrame( pcTuples, pcOrigTuples, yieldCurve)
+  File "/home/phil/eclipse_dev/Analyttlic/python/data/GraphPlotter.py", line 36, in __init__
+    plotter.Draw(gc, xAxis=(0,20), yAxis=(0,20))
+  File "/usr/lib/python2.5/site-packages/wx-2.8-gtk2-unicode/wx/lib/plot.py", line 966, in Draw
+    self._Draw(graphics, xAxis, yAxis, dc)
+  File "/usr/lib/python2.5/site-packages/wx-2.8-gtk2-unicode/wx/lib/plot.py", line 1080, in _Draw
+    self._adjustScrollbars()
+  File "/usr/lib/python2.5/site-packages/wx-2.8-gtk2-unicode/wx/lib/plot.py", line 1618, in _adjustScrollbars
+    r_max = list(self._getYMaxRange())
+  File "/usr/lib/python2.5/site-packages/wx-2.8-gtk2-unicode/wx/lib/plot.py", line 921, in _getYMaxRange
+    yAxis = self._axisInterval(self._ySpec, p1[1], p2[1])
+  File "/usr/lib/python2.5/site-packages/wx-2.8-gtk2-unicode/wx/lib/plot.py", line 1446, in _axisInterval
+    grid = 10.**power
+OverflowError: (34, 'Numerical result out of range')
